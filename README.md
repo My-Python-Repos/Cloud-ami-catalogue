@@ -3,7 +3,7 @@ This is a Django App written for the Hybrid Cloud Team to catalog AMIS. Function
 
 
 We are live:
-http://13.56.161.184/
+To be updated.
 
 To run the server:
 ```
